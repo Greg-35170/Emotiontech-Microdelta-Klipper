@@ -67,8 +67,8 @@ ls /dev/serial/by-id/*
 Depuis un navigateur saisir l'adresse ip du rasberry pi. Vous arrivez normalement sur l'interface Mainsail.
 
 Dans l'onglet "Machine" importer dans le répertoire config les fichiers de ce dépot:
-  * printer.cfg
-  * macro.cfg
+   - printer.cfg
+   - macro.cfg
 
 * Dans Mainsail, ouvrir le fichier printer.cfg
 * Remplacer le serial mcu par celui récupéré précédemment
