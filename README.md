@@ -1,4 +1,4 @@
-# Emotiontech-Microdelta-Klipper
+# Installer Klipper sur une Microdelta Rework d'Emotiontech
 Configuration de Klipper pour Imprimante Emotiotech Microdelta Rework.
 
  Cette méthode n'est valable que pour les imprimantes équipées de la carte d'origine Emotiotech.
