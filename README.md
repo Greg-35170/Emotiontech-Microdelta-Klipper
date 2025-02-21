@@ -78,11 +78,11 @@ Vous devriez maintement être connecté avec l'imprimante (tentez un home en gar
 
 ## Configuration slicer
 * Gcode de démarrage:
-```gcode
+```plaintext
 START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]
 ```
 * Gcode de fin:
-```gcode
+```plaintext
 END_PRINT
 ```
 
