@@ -44,12 +44,15 @@ make
 La commande make créé un fichier klipper.bin dans le répertoire /out qu'il faut récupérer
 * Commande depuis le pc dans une nouvelle console (pas en SSH)
 ```bash
-scp votreid@192.168.XXX.XXX: /klipper/out/klipper.bin c:/votre/chemin/
+scp votreid@192.168.XXX.XXX:~/klipper/out/klipper.bin c:/votre/chemin/
 ```
 * Renommer ce fichier en firmware.bin
 * copier sur la carte micro SD de l'imprimante
 * Démarer l'imprimante
 * Patienter un peu
-* 
+
+Depuis un navigateur saisir l'adresse ip du rasberry pi
+Vous arrivez normalement sur mainsail
+
 
 
