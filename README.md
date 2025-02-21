@@ -1,5 +1,7 @@
 # Emotiontech-Microdelta-Klipper
-Configuration Klipper pour Imprimante Emotiotech Microdelta Rework
+Configuration de Klipper pour Imprimante Emotiotech Microdelta Rework.
+
+ Cette méthode n'est valable que pour les imprimantes équipées de la carte d'origine Emotiotech.
 
 ## Configuration du Raspberry
 (A minima un Raspberry Pi 3)
