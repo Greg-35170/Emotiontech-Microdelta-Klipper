@@ -1,7 +1,8 @@
 # Installer Klipper sur une Microdelta Rework d'Emotiontech
 Configuration de Klipper pour Imprimante Emotiotech Microdelta Rework.
 
- Cette méthode n'est valable que pour les imprimantes équipées de la carte d'origine Emotiotech.
+Cette méthode n'est valable que pour les imprimantes équipées de la carte d'origine Emotiotech.
+Pour plus de détails sur cette démarche référez-vous à la [documentation Klipper](https://www.klipper3d.org/fr/)
 
 ## Configuration du Raspberry
 (A minima un Raspberry Pi 3)
@@ -96,4 +97,8 @@ Executer les macros: Attention il faut mettre en place le palpeur pour toute ces
 * BED_LEVELING
 
 L'imprimante est prête pour sa première impression!
+
+## Mesures de raisonnance
+cf. [https://www.klipper3d.org/fr/Measuring_Resonances.html](https://www.klipper3d.org/fr/Measuring_Resonances.html)
+
 
