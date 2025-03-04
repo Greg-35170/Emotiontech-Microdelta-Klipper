@@ -63,7 +63,8 @@ Dans la console en SSH, récupérer le serial de l'imprimante:
 ```bash
 ls /dev/serial/by-id/*
 ```
-* Enregistrer dans un fichier texte l'adresse retournée par la console du type: /dev/serial/by-id/usb-Klipper_lpc1768_1DD00008C994FAAEA2D6DD57C42000F5-if00
+* Enregistrer dans un fichier texte l'adresse retournée par la console du type:\
+  /dev/serial/by-id/usb-Klipper_lpc1768_1DD0000XXX....
 * Fermer la console SSH
 
 ## Configuration Mainsail
