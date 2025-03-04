@@ -51,7 +51,7 @@ La commande make créé un fichier klipper.bin dans le répertoire /out qu'il fa
 scp votreid@192.168.XXX.XXX:~/klipper/out/klipper.bin c:/votre/chemin/
 ```
 
-## Flashage de l'imprmante
+## Flashage de l'imprimante
 * Renommer ce fichier en firmware.bin
 * copier sur la carte micro SD de l'imprimante
 * Démarer l'imprimante
